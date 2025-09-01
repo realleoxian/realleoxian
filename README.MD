@@ -5,15 +5,13 @@ Hello, I am Leoxian, a programmer who, at the time of writing this (August 25, 2
 <h2 align="center">Languages i use</h2>
 
 <p align="center">
-    <a href="https://www.rust-lang.org/">
+    <a href="https://www.rust-lang.org/" target="blank">
         <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="48" height="48" background-color="#ffffff"/>
     </a>
-    <a href="https://www.java.com/es/"> 
+    <a href="https://www.java.com/es/" target="blank"> 
         <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="48" height="48" /> 
     </a>
-    <a href="">
-        <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" width="48" height="48" />
-    </a>
+    <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" width="48" height="48" />
 </p>
 
 

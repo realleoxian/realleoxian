@@ -1,6 +1,6 @@
 <h1 align="center">Introducing myself</h1>
 
-Hello, I am Leoxian, a programmer who, at the time of writing this (August 25, 2025), has been programming for about four or five years. I started when COVID arrived, but that is beside the point. I started programming in Java as my main language and became a Minecraft modder for multi-loader mods. I am currently continuing to learn new things about Java, as well as learning the Rust and C++ programming languages.
+Hello, I am Leoxian, a programmer who, at the time of writing this (August 25, 2025), has been programming for about four or five years. I started when COVID arrived, but that is beside the point. I started programming in Java as my main language and became a Minecraft modder for multi-loader mods. I am currently continuing to learn new things about Java, as well as learning the Rust programming language.
 
 <h2 align="center">Languages i use</h2>
 
@@ -11,7 +11,6 @@ Hello, I am Leoxian, a programmer who, at the time of writing this (August 25, 2
     <a href="https://www.java.com/es/" target="blank"> 
         <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="48" height="48" /> 
     </a>
-    <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" width="48" height="48" />
 </p>
 
 
